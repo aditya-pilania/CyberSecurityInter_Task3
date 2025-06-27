@@ -74,12 +74,9 @@ The full OpenVAS scan report for Kali Linux is included in the `report/` folder:
 - Understood firewall’s role in securing a machine from network scans
 
 ---
-
-## 👨‍💻 Author
-
 **Aditya Pilania**  
 Cybersecurity Intern – Elevates Lab  
-GitHub: [@adityapilania](https://github.com/adityapilania)
+GitHub: [@aditya-pilania](https://github.com/aditya-pilania)
 
 ---
 
