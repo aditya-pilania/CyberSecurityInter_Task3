@@ -39,11 +39,6 @@ Perform a basic vulnerability assessment using **OpenVAS** to scan both the loca
 - **Impact:** Can allow attackers to compromise encrypted sessions
 - **Solution:** Disable weak ciphers and configure only strong TLS settings
 
-### 🔗 CVEs Referenced:
-- [CVE-2013-2566](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-2566)
-- [CVE-2015-2808](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-2808)
-- [CVE-2015-4000](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-4000)
-
 ---
 
 ## 🔒 Windows Host Vulnerability Summary
